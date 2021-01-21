@@ -1,0 +1,1 @@
+worker: python MineBot/main.py
